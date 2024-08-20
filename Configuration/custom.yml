@@ -1,0 +1,6 @@
+title: Custom
+tasks:
+- Tasks\registry.yml
+- Tasks\appx.yml
+- Tasks\services.yml
+- Tasks\software.yml
